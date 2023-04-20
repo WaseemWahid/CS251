@@ -34,4 +34,4 @@ cat("v2_cv:", v2_cv, "\n")
 # Create a vector cv_all that contains (v_cv, v1_cv, and v2_cv) 
 cv_all <- c(v_cv, v1_cv, v2_cv)
 # Print the minimum value in cv_all. 
-cat("val in all", min(cv_all))
+cat("value in all", min(cv_all))
